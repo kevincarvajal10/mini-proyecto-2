@@ -1,0 +1,6 @@
+nombre,tipo,vida,ataque,defensa,velocidad
+Pikachu,Electrico,100,55,40,90
+Charmander,Fuego,100,60,35,65
+Squirtle,Agua,100,48,65,43
+Bulbasaur,Planta,100,49,49,45
+Jigglypuff,Normal,120,45,20,20
